@@ -1,8 +1,7 @@
 ## Vansh this side 🦧
 **`(Developer/Data Scientist/Cloud Practitioner)`**
-<hr>
 
-Lemme brag about myself:<br>
+Lemme yap about myself:<br>
 I am **`VANSH`** <br>
 <br>
 I claim myself to be <br>
