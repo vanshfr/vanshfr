@@ -15,6 +15,8 @@ I claim myself to be <br>
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHdyM3A0eHFrbXkxdmVjcGZneTI1ZnpveXlvMHMweTJ3NWM3ZzBrdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lJNoBCvQYp7nq/giphy.gif" alt="Cool Kat" width ="300" height="200"/>
 </p>
 
+
+<hr>
 <!-- 💻 My Toolbox:
 
 Cloud Technologies: AWS, Azure, GCP – leveraging the cloud to build scalable and secure systems.
