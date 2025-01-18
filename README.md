@@ -15,6 +15,7 @@ When I'm not crunching numbers, you’ll find me whipping up passion projects as
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHdyM3A0eHFrbXkxdmVjcGZneTI1ZnpveXlvMHMweTJ3NWM3ZzBrdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lJNoBCvQYp7nq/giphy.gif" alt="Cool Kat" width ="300" height="200"/>
 </p>
 
+If you’ve got wild ideas, I’ve got the tech magic—let’s make some digital mischief together!
 
 <hr>
 
