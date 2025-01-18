@@ -5,7 +5,7 @@ Lemme yap about myself:<br>
 I am **`VANSH`** <br>
 <br>
 I claim myself to be <br>
-**`a cloud enthusiast, data storyteller, and full-stack developer wtc. etc. Call me whatever you want ;)`**
+**`a cloud enthusiast, data storyteller, and full-stack developer etc. etc. Call me whatever you want ;)`**
 <br>
 <br>
 <!--<p align="center">
