@@ -2,9 +2,9 @@
 
 **`Call me whatever you want ;) (Developer/Data Scientist/Cloud Practitioner)`**
 
-Lemme brag about myself:
-My self **`VANSH`** 
-
+Lemme brag about myself:<br>
+I am **`VANSH`** <br>
+<br>
 What I am?
 a cloud enthusiast, data storyteller, and full-stack developer passionate about crafting impactful tech solutions! 🚀
 
