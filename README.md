@@ -18,6 +18,11 @@ I claim myself to be <br>
 
 
 <hr>
+
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHMxbGEwbjkzYm10dDUyYTBidndqbjRxN3RzaWg4Z3E3YzZ1b3JkdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vR1dPIYzQmkRzLZk2w/giphy.gif" alt="Working on it, Bitch"/>
+</p>
+
 <!-- 💻 My Toolbox:
 
 Cloud Technologies: AWS, Azure, GCP – leveraging the cloud to build scalable and secure systems.
