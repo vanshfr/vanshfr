@@ -7,6 +7,7 @@ I am **`VANSH`** <br>
 I claim myself to be <br>
 **`a cloud enthusiast, data storyteller, and full-stack developer etc. etc. Call me whatever you want ;)`**
 <br>
+Fueled by chai(tea) and code, I'm a B.Tech student diving into the realms of data science and AI. When I'm not crunching numbers, you’ll find me whipping up passion projects as a full stack developer!
 <br>
 <!--<p align="center">
 -->
@@ -20,6 +21,7 @@ I claim myself to be <br>
 <p align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHMxbGEwbjkzYm10dDUyYTBidndqbjRxN3RzaWg4Z3E3YzZ1b3JkdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vR1dPIYzQmkRzLZk2w/giphy.gif" alt="Working on it, Bitch"/>
 </p>
+
 
 <!-- 💻 My Toolbox:
 
