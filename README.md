@@ -1,8 +1,6 @@
 ## Vansh this side 🦧
 <hr>
 
-**`Call me whatever you want ;) (Developer/Data Scientist/Cloud Practitioner)`**
-
 Lemme brag about myself:<br>
 I am **`VANSH`** <br>
 <br>
