@@ -4,8 +4,7 @@
 Lemme yap about myself:<br>
 I am **`VANSH`** <br>
 <br>
-Fueled by chai(tea) and code, I'm a B.Tech student diving into the realms of data science and AI.<br>
-I claim myself to be **`a cloud enthusiast, data storyteller, and full-stack developer etc. etc.`** You can call me whatever you want ;)
+Fueled by chai(tea) and code, I'm a B.Tech student diving into the realms of data science and AI. I claim myself to be **`a cloud enthusiast, data storyteller, and full-stack developer etc. etc.`** You can call me whatever you want ;)
 <br>
  When I'm not crunching numbers, you’ll find me whipping up passion projects as a full stack developer!
 <br>
