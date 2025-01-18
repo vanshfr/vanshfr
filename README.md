@@ -10,7 +10,7 @@ What I am?<br>
 <br>
 <br>
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHdyM3A0eHFrbXkxdmVjcGZneTI1ZnpveXlvMHMweTJ3NWM3ZzBrdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lJNoBCvQYp7nq/giphy.gif" alt="Cool Kat" width ="500" height="300"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHdyM3A0eHFrbXkxdmVjcGZneTI1ZnpveXlvMHMweTJ3NWM3ZzBrdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lJNoBCvQYp7nq/giphy.gif" alt="Cool Kat" width ="300" height="200"/>
 </p>
 
 <!-- 💻 My Toolbox:
