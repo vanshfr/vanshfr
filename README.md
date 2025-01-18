@@ -1,6 +1,6 @@
 ## Vansh this side 🦧
 
-**Call me whatever you want(Developer/Data Scientist/Cloud Practitioner)**
+**`Call me whatever you want(Developer/Data Scientist/Cloud Practitioner)`**
 <!--
 **vanshfr/vanshfr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
