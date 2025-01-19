@@ -25,7 +25,7 @@ If you’ve got wild ideas 💡, I’ve got the tech magic👨‍💻—let’s 
 <hr>
 
 <details>
-  ## They help me to COOK👨‍🍳
+  <summary><h2>They help me to COOK👨‍🍳</h2></summary>
 </details>
 
 <hr>
