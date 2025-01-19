@@ -20,6 +20,9 @@ Fueled by chai(tea)☕ and code, I'm a CSE student 🔧 diving into the realms o
 </p>
 
 If you’ve got wild ideas 💡, I’ve got the tech magic👨‍💻—let’s make some digital mischief together!😛
+<hr>
+# They help me to COOK👨‍🍳
+
 
 <hr>
 
