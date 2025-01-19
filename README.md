@@ -1,3 +1,4 @@
+
 <!--<p>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Open+Sans&weight=200&size=30&pause=5000&color=F7E5E5&width=435&lines=Vansh+this+side+%F0%9F%A6%A7" alt="Typing SVG" /></a>
 </p>-->
@@ -23,8 +24,9 @@ Fueled by chai(tea)☕ and code, I'm a CSE student 🔧 diving into the realms o
 If you’ve got wild ideas 💡, I’ve got the tech magic👨‍💻—let’s make some digital mischief together!😛
 <hr>
 
-## They help me to COOK👨‍🍳
-
+<details>
+  ## They help me to COOK👨‍🍳
+</details>
 
 <hr>
 
