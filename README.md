@@ -5,7 +5,7 @@
 
 # Vansh this side 🦧
 
-**`(Developer/Data Scientist/Cloud Practitioner)`**
+**`(Developer/Data Scientist/Cloud Enthusiast)`**
 
 Lemme yap about myself💁‍♂️:<br>
 I am **`VANSH`** <br>
