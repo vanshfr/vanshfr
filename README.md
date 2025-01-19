@@ -1,7 +1,8 @@
-<p>
+<!--<p>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Open+Sans&weight=200&size=30&pause=5000&color=F7E5E5&width=435&lines=Vansh+this+side+%F0%9F%A6%A7" alt="Typing SVG" /></a>
-</p>
-<!--# Vansh this side 🦧-->
+</p>-->
+
+# Vansh this side 🦧
 
 **`(Developer/Data Scientist/Cloud Practitioner)`**
 
