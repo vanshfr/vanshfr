@@ -92,7 +92,7 @@ If you’ve got wild ideas 💡, I’ve got the tech magic👨‍💻—let’s 
 
 <hr>
 
-<p align="center" style="font-size:"24px";">
+<p align="center" style="font-size:"48px";">
   Working on it Cabron, Won't take too long.
 </p>
 
