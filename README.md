@@ -2,7 +2,7 @@
 
 <!--# Vansh this side 🦧-->
 **`(Developer/Data Scientist/Cloud Practitioner)`**
-
+<hr>
 Lemme yap about myself💁‍♂️:<br>
 I am **`VANSH`** <br>
 <br>
