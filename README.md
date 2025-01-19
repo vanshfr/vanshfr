@@ -92,10 +92,8 @@ If you’ve got wild ideas 💡, I’ve got the tech magic👨‍💻—let’s 
 
 <hr>
 
-<p align="center">
-  
-  ### working on cabron, it won't take too long 
-
+<p align="center" style="font-size:"24px";">
+  Working on it Cabron, Won't take too long.
 </p>
 
 <p align="center">
