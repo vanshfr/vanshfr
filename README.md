@@ -68,7 +68,7 @@ If you’ve got wild ideas 💡, I’ve got the tech magic👨‍💻—let’s 
       <a href="#"><img alt="Oracle" src ="https://img.shields.io/badge/Oracle-F00000.svg?logo=oracle&logoColor=white"></a>
       <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
       <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"></a>
-      <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white"></a>
+      <a href="#"><img alt="Cassandra" src="https://img.shields.io/badge/Cassandra-%231287B1?logo=apachecassandra&logoColor=white"></a>
   </p>
 
   <h3>💻 Software and Tools</h3>
