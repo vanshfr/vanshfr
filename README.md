@@ -93,6 +93,10 @@ If you’ve got wild ideas 💡, I’ve got the tech magic👨‍💻—let’s 
 <hr>
 
 <p align="center">
+  ### working on cabron, it won't take too long 
+</p>
+
+<p align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHMxbGEwbjkzYm10dDUyYTBidndqbjRxN3RzaWg4Z3E3YzZ1b3JkdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vR1dPIYzQmkRzLZk2w/giphy.gif" alt="Working on it, Bitch"/>
 </p>
 
