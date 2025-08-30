@@ -94,7 +94,7 @@ If you’ve got wild ideas 💡, I’ve got the tech magic👨‍💻—let’s 
 
 <hr>
 
-## 📊 GitHub Stats:
+## My Stats:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=vanshfr&show_icons=true&theme=dark)
 
 <hr>
