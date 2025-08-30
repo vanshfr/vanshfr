@@ -103,6 +103,12 @@ If you’ve got wild ideas 💡, I’ve got the tech magic👨‍💻—let’s 
 </p>
 
 
+## 📊 GitHub Stats:
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=vanshfr&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanshfr&langs_count=8&theme=dark)
+
+
 <!-- 💻 My Toolbox:
 
 Cloud Technologies: AWS, Azure, GCP – leveraging the cloud to build scalable and secure systems.
