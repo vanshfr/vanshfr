@@ -93,8 +93,10 @@ If you’ve got wild ideas 💡, I’ve got the tech magic👨‍💻—let’s 
 </details>
 
 <hr>
+
 ## 📊 GitHub Stats:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=vanshfr&show_icons=true&theme=dark)
+
 <hr>
 
 <p align="center" style="font-size:"48px";">
