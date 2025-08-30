@@ -93,6 +93,9 @@ If you’ve got wild ideas 💡, I’ve got the tech magic👨‍💻—let’s 
 </details>
 
 <hr>
+## 📊 GitHub Stats:
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=vanshfr&show_icons=true&theme=dark)
+<hr>
 
 <p align="center" style="font-size:"48px";">
   Working on it Cabron, Won't take too long.
@@ -101,12 +104,6 @@ If you’ve got wild ideas 💡, I’ve got the tech magic👨‍💻—let’s 
 <p align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHMxbGEwbjkzYm10dDUyYTBidndqbjRxN3RzaWg4Z3E3YzZ1b3JkdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vR1dPIYzQmkRzLZk2w/giphy.gif" alt="Working on it, Bitch"/>
 </p>
-
-
-## 📊 GitHub Stats:
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=vanshfr&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanshfr&langs_count=8&theme=dark)
 
 
 <!-- 💻 My Toolbox:
