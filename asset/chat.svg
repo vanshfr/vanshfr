@@ -338,11 +338,12 @@
 
   </g>
 
-  <!-- isometric-contributions -->
+  <!-- location -->
   <g transform="translate(10, 170)" class="msg-4">
     <rect width="396" height="66" rx="18" class="bubble" />
     <text x="15" y="27">I live in Delhi, India where it’s supposed to be</text>
-    <text x="15" y="50"><tspan id="temp"></tspan> and <tspan class="emoji" id="tempemoji"></tspan> today.</text>
+    <text x="15" y="50"><tspan id="temp">summer or winter</tspan>,idk I ain't a weather reporter ☹️ <tspan class="emoji" id="tempemoji"></tspan> today.</text>
+    <!-- actually i was supposed to add an api for temp but it doesn't work in svg :'), may be it would work in future, idk please ignore -->
   </g>
   
   <!-- typing 5 -->
@@ -362,7 +363,7 @@
     </circle>
   </g>
   
-  <!-- Bluesky -->
+  <!-- work? -->
   <g transform="translate(10, 244)" class="msg-5">
     <rect width="396" height="66" rx="18" class="bubble" />
     <text x="15" y="27">I am currently self-employed/working on few</text>
@@ -414,49 +415,10 @@
   <g transform="translate(10, 392)" class="msg-7">
     <rect width="206" height="42" rx="18" class="bubble" />
     <text x="15" y="27">Have a great day! <tspan class="emoji">✌🏻</tspan></text>
-    <image x="10" y="52" width="317" height="317" href="https://raw.githubusercontent.com/vanshfr/vanshfr/6e896d317a0f4c04e831f6169fef2fe149fa4b9a/asset/tenor.gif"/>  
+    <!-- ts doesn't work as well :') -->
+    <!-- <image x="10" y="52" width="317" height="317" href="https://raw.githubusercontent.com/vanshfr/vanshfr/6e896d317a0f4c04e831f6169fef2fe149fa4b9a/asset/tenor.gif"/>   -->
   </g>
 
   <!-- Credit - @jasonlong https://github.com/jasonlong -->
 
 </svg>
-
-<script>
-
-  const apiKey = "3111d1c5ddfe2617bf7b1d4d8b5a7988";
-  const City = "Delhi";
-  
-  const weatherEmojiMap = { Clear: "☀️", Clouds: "☁️", Rain: "🌧️", Drizzle: "🌦️", 
-  Thunderstorm: "⛈️", Snow: "❄️", Mist: "🌫️", Haze: "🌫️", Fog: "🌁", Smoke: "🌫️", Dust: "🌪️", 
-  Sand: "🌪️", Ash: "🌋", Squall: "💨", Tornado: "🌪️"
-  };
-  
-  const url = `https://api.openweathermap.org/data/2.5/weather?q=${City}&appid=${apiKey}&units=metric`;
-  
-  fetch(url)
-      .then(response => {
-          if (!response.ok) {
-              throw new Error(`HTTP error: ${response.status}`);
-          }
-          return response.json();
-      })
-      .then(data => {
-          
-          const result = {
-              temp: data.main.temp+"°C",
-              weather: data.weather[0].main,
-          };
-          const k=data.weather[0].main;
-          console.log(weatherEmojiMap[k]);
-          emoji = weatherEmojiMap[k] || "❓";                
-          
-          document.getElementById("temp").innerHTML = result.temp;
-          document.getElementById("tempemoji").innerHTML = JSON.stringify(result.weather, null, 0) +" "+ emoji;  
-      })
-      .catch(error => {
-          console.error(error);
-          document.getElementById("result").textContent =
-              "Failed to fetch weather data";
-      });
-
-</script>
