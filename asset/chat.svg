@@ -420,3 +420,43 @@
   <!-- Credit - @jasonlong https://github.com/jasonlong -->
 
 </svg>
+
+<script>
+
+  const apiKey = "3111d1c5ddfe2617bf7b1d4d8b5a7988";
+  const City = "Delhi";
+  
+  const weatherEmojiMap = { Clear: "☀️", Clouds: "☁️", Rain: "🌧️", Drizzle: "🌦️", 
+  Thunderstorm: "⛈️", Snow: "❄️", Mist: "🌫️", Haze: "🌫️", Fog: "🌁", Smoke: "🌫️", Dust: "🌪️", 
+  Sand: "🌪️", Ash: "🌋", Squall: "💨", Tornado: "🌪️"
+  };
+  
+  const url = `https://api.openweathermap.org/data/2.5/weather?q=${City}&appid=${apiKey}&units=metric`;
+  
+  fetch(url)
+      .then(response => {
+          if (!response.ok) {
+              throw new Error(`HTTP error: ${response.status}`);
+          }
+          return response.json();
+      })
+      .then(data => {
+          
+          const result = {
+              temp: data.main.temp+"°C",
+              weather: data.weather[0].main,
+          };
+          const k=data.weather[0].main;
+          console.log(weatherEmojiMap[k]);
+          emoji = weatherEmojiMap[k] || "❓";                
+          
+          document.getElementById("temp").innerHTML = result.temp;
+          document.getElementById("tempemoji").innerHTML = JSON.stringify(result.weather, null, 0) +" "+ emoji;  
+      })
+      .catch(error => {
+          console.error(error);
+          document.getElementById("result").textContent =
+              "Failed to fetch weather data";
+      });
+
+</script>
