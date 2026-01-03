@@ -414,7 +414,7 @@
   <g transform="translate(10, 392)" class="msg-7">
     <rect width="206" height="42" rx="18" class="bubble" />
     <text x="15" y="27">Have a great day! <tspan class="emoji">✌🏻</tspan></text>
-    <image x="10" y="52" width="317" height="317" href="asset/tenor.gif"/>  
+    <image x="10" y="52" width="317" height="317" href="https://raw.githubusercontent.com/vanshfr/vanshfr/6e896d317a0f4c04e831f6169fef2fe149fa4b9a/asset/tenor.gif"/>  
   </g>
 
   <!-- Credit - @jasonlong https://github.com/jasonlong -->
