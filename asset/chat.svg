@@ -313,7 +313,7 @@
     </circle>
   </g>
 
-  <!-- Work -->
+  <!-- umm qulification? -->
   <g transform="translate(10, 96)" class="msg-3">
     <rect width="396" height="66" rx="18" class="bubble" />
     <text x="15" y="27">I’m a CS Student, Cloud Enthusiast, Backend</text>
@@ -340,9 +340,9 @@
 
   <!-- location -->
   <g transform="translate(10, 170)" class="msg-4">
-    <rect width="406" height="66" rx="18" class="bubble" />
+    <rect width="396" height="66" rx="18" class="bubble" />
     <text x="15" y="27">I live in Delhi, India where it’s supposed to be</text>
-    <text x="15" y="50"><tspan id="temp">summer or winter</tspan>,idk I ain't a weather reporter ☹️ <tspan class="emoji" id="tempemoji"></tspan>.</text>
+    <text x="15" y="50"><tspan id="temp"></tspan>....,idk I ain't a weather reporter <tspan class="emoji" id="tempemoji">☹️</tspan>.</text>
     <!-- actually i was supposed to add an api for temp but it doesn't work in svg :'), may be it would work in future, idk please ignore -->
   </g>
   
