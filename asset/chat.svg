@@ -410,14 +410,9 @@
       <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" begin="0.4s" repeatCount="indefinite" />
     </circle>
   </g>
-
   <!-- Have a great day -->
   <g transform="translate(10, 392)" class="msg-7">
     <rect width="206" height="42" rx="18" class="bubble" />
     <text x="15" y="27">Have a great day! <tspan class="emoji">✌🏻</tspan></text>
-  </g>
-
-  <!-- Credit - @jasonlong https://github.com/jasonlong -->
-
+  </g><!-- Credit - @jasonlong https://github.com/jasonlong -->
 </svg>
-
